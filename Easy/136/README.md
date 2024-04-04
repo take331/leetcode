@@ -4,10 +4,10 @@
 このリストから、自分と同じ数がないもの、単独の数値を見つける問題
 
 ## Ex.
-Input: nums = [2,2,1]
+Input: nums = [2,2,1]  
 Output: 1
 
-Input: nums = [4,1,2,1,2]
+Input: nums = [4,1,2,1,2]  
 Output: 4
 
 ## 条件
